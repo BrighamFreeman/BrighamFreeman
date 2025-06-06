@@ -4,4 +4,4 @@ Hi, I'm Brigham, a data scientist and ML Engineer. I enjoy being able to find th
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrighamFreeman)
+
